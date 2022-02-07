@@ -1,10 +1,12 @@
 ## 作ったやつ
 
-[ストVラウンジ募集ツール](https://hyde142857.github.io/sfv-lounge/)
-> ストリートファイターVのラウンジ募集をTwitterで行うためのツール。
+- [ストVラウンジ募集ツール](https://hyde142857.github.io/sfv-lounge/)  
+  ストリートファイターVのラウンジ募集をTwitterで行うためのツール。  
+  リポジトリ - https://github.com/hyde142857/sfv-lounge
 
-[シャドウバース ルームマッチ募集ツール](https://hyde142857.github.io/shadowverse-roommatch/)
-> シャドウバースのルムマ募集をTwitterで行うためのツール。
+- [シャドウバース ルームマッチ募集ツール](https://hyde142857.github.io/shadowverse-roommatch/)  
+  シャドウバースのルムマ募集をTwitterで行うためのツール。  
+  リポジトリ - https://github.com/hyde142857/shadowverse-roommatch
 
 ## 連絡手段
 
