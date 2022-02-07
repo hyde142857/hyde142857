@@ -6,6 +6,11 @@
 [シャドウバース ルームマッチ募集ツール](https://hyde142857.github.io/shadowverse-roommatch/)
 > シャドウバースのルムマ募集をTwitterで行うためのツール。
 
+## 連絡手段
+
+Twitterアカウント hyde142857 に連絡してね。  
+https://twitter.com/hyde142857
+
 <!--
 **hyde142857/hyde142857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
