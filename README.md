@@ -1,4 +1,10 @@
-### Hi there 👋
+## 作ったやつ
+
+[ストVラウンジ募集ツール](https://hyde142857.github.io/sfv-lounge/)
+> ストリートファイターVのラウンジ募集をTwitterで行うためのツール。
+
+[シャドウバース ルームマッチ募集ツール](https://hyde142857.github.io/shadowverse-roommatch/)
+> シャドウバースのルムマ募集をTwitterで行うためのツール。
 
 <!--
 **hyde142857/hyde142857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
